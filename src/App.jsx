@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Hero } from './components'
+import { Body, Hero } from './components'
 import { NavBar } from './components'
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
     <>
     <NavBar/>
     <Hero/>
+    <Body/>
     </>
   )
 }

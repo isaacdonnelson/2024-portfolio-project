@@ -4,7 +4,7 @@ import webbackground from "../assets/webbg.png";
 
 const Hero = () => {
     return (
-        <div className="h-screen flex items-center justify-center bg-[url('src/assets/webbg.png')]">
+        <div className="hero-height flex items-center justify-center bg-[url('src/assets/webbg.png')]">
             <div className="flex items-center landingspot">
                 <img src={profilephoto} alt="profile photo" className="mr-20 h-72 hero-img" />
                 <div className="flex flex-col text-align h-72 justify-end">
