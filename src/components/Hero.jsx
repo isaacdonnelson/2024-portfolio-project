@@ -9,8 +9,8 @@ const Hero = () => {
                 <img src={profilephoto} alt="profile photo" className="mr-20 h-72 hero-img" />
                 <div className="flex flex-col text-align h-72 justify-end">
                     <div className="">
-                        <div className="text-5xl"><span className="hello-font font-heading-special">Hi, I'm </span><span className="font-medium">Isaac Donnelson</span></div>
-                        <div className="about-me">I am a software engineer, based in <span className="city">Seattle, WA<div className="highlight-underline" ></div></span></div>
+                        <div className="text-5xl mb-2"><span className="hello-font font-heading-special">Hi, I'm </span><span className="font-medium">Isaac Donnelson</span></div>
+                        <div className="about-me mb-5">I am a software engineer, based in <span className="city">Seattle, WA<div className="highlight-underline" ></div></span></div>
                     </div>
                     <div className="mt-8">
                     <button className="hero-button secondary-button">Get In Touch</button>
