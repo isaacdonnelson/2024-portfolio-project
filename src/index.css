@@ -1,0 +1,10 @@
+/* Base imports */
+@import "tailwindcss/base";
+
+/* Components imports */
+@import "tailwindcss/components";
+@import "./assets/components/hero.css";
+
+
+/* Utility imports */
+@import "tailwindcss/utilities";
