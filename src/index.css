@@ -4,6 +4,7 @@
 /* Components imports */
 @import "tailwindcss/components";
 @import "./assets/components/hero.css";
+@import "./assets/components/navbar.css";
 
 
 /* Utility imports */
